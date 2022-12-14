@@ -1,6 +1,6 @@
-# pong_SnT_project
+# pong_GDC
 ---
-### Pong Game made with Pygame for SnT Project prerequisite.
+### Pong Game made with Pygame.
 
 ## Controls
 
